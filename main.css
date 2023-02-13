@@ -33,12 +33,53 @@
 .card {
   display: flex;
   justify-content: center;
-  width: 50%;
-  height: 300px;
+  width: 50rem;
+  height: 400px;
   margin: 0 auto;
 }
 
 .hr2 {
   color: red;
   width: ;
+}
+
+.p1-title {
+  text-align: center; 
+}
+ 
+.sans {
+  font-family: serif;
+  font-weight: bold;
+}
+
+.img-block {
+  display: inline-block;
+  width: 500px;
+}
+
+.pic_h_w {
+  height: 300px;
+  width: 425px;
+}
+/* p {
+  flex-wrap: wrap;
+} */
+
+h7 {
+  width: 2px;
+}
+
+.hyper {
+  text-decoration: none;
+  color: rgb(30, 0, 255);
+}
+
+h6 {
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.card-group {
+  width: 70%;
+  margin: 0 10rem; 
 }
