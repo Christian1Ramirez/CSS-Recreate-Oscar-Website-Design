@@ -1,0 +1,44 @@
+
+#tip-top {
+  background-color: black;
+  
+}
+
+.nav-link {
+  color: white;  
+
+}
+
+.btn {
+  margin-left: 25rem;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+#second-nav-color {
+  color: black;
+}
+
+#main-img {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  
+}
+
+.card h5 {
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.hr2 {
+  color: red;
+  width: ;
+}
