@@ -1,4 +1,3 @@
-
 #tip-top {
   background-color: black;
   
@@ -11,19 +10,41 @@
 
 .btn {
   margin-left: 25rem;
-  border: 1px solid black;
+  border: 1px solid white;
   border-radius: 15px;
 }
 
 #second-nav-color {
-  color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#nav-two {
+  background-color: #1b5557;
+}
+
+.moving-up {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -6%);
+
 }
 
 #main-img {
   position: relative;
   width: 100%;
   height: 600px;
-  
+  top: 80%;
+}
+
+.card-position {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -47%);
+  width: 50%;
+  height: 50%;
 }
 
 .card h5 {
@@ -38,10 +59,6 @@
   margin: 0 auto;
 }
 
-.hr2 {
-  color: red;
-  width: ;
-}
 
 .p1-title {
   text-align: center; 
@@ -61,9 +78,7 @@
   height: 300px;
   width: 425px;
 }
-/* p {
-  flex-wrap: wrap;
-} */
+
 
 h7 {
   width: 2px;
